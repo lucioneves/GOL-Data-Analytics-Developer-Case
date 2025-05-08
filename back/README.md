@@ -40,7 +40,9 @@ Para iniciar a **API**, execute o seguinte comando:
 
 ```sh
 $ ./run.sh
+$ uvicorn app.main:app --reload
 ```
+
 
 <br>
 
